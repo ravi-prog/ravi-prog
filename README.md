@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ravi-prog
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Ravindra Pandey.
+- 👀 I’m currently studying in Dev Sanskriti Vishwavidyalaya(DSVV), Haridwar.
 - 🌱 I’m currently learning Data_science.
 - 📫 How to reach me (ravindra3885@gmail.com).
 
